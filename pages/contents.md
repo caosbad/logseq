@@ -1,3 +1,4 @@
 ## [[Read]]
 ## [[Tech]]
 ## [[Trade]]
+## [[Write]]
