@@ -13,9 +13,11 @@ packages/fcl/src/fcl.js
 ####### modules import
  ![modules](https://trello-attachments.s3.amazonaws.com/5fccc55f9c47787592af6b96/577x461/98faad85fa771dfeea66278ea651a319/image.png)
 ###### transaction
-###### script
-###### ping
+@onflow/sdk-build-transaction
 ######
+####### script
+####### ping
+####### getAccount
 ##### How [FCL](https://github.com/onflow/flow-js-sdk) interact with Flow
 ###### fcl.getAccount()
 ###### fcl.currentUser()
