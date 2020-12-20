@@ -18,14 +18,14 @@ packages/fcl/src/fcl.js
 ###### config
 ###### send
 ###### decode
+###### interaction
+@onflow/interaction
+#######
 ###### account
 ###### latestBlock
 ###### script
 ###### ping
 ###### getAccount
-###### interaction
-@onflow/interaction
-#######
 ##### How [FCL](https://github.com/onflow/flow-js-sdk) interact with Flow
 ###### fcl.getAccount()
 ###### fcl.currentUser()
