@@ -13,3 +13,4 @@ title: Tech
 ####### subscribe()
 ###### fcl.authenticate()
 ###### fcl.unauthenticate()
+#### wallet-provider-spec
