@@ -9,4 +9,4 @@ title: Tech
 ######
 ##### How [FCL](https://github.com/onflow/flow-js-sdk) interact with Flow
 ###### fcl.getAccount()
-###### fcl.
+###### fcl.authenticate()
