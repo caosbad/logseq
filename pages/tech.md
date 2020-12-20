@@ -11,3 +11,5 @@ title: Tech
 ###### fcl.getAccount()
 ###### fcl.currentUser()
 ###### fcl.authenticate()
+###### fcl.unauthenticate()
+######
