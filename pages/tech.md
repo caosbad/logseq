@@ -19,6 +19,7 @@ packages/fcl/src/fcl.js
 ###### send
 ###### decode
 ###### interaction
+packages/interaction/src/interaction.js
 #######
 ###### utll-address
 ######
