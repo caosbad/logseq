@@ -8,6 +8,7 @@ title: Tech
 ##### Package analisis
 ###### fcl main file  
 packages/fcl/src/fcl.js
+####### auth
 #######
 ##### How [FCL](https://github.com/onflow/flow-js-sdk) interact with Flow
 ###### fcl.getAccount()
