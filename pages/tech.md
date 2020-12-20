@@ -15,6 +15,11 @@ packages/fcl/src/fcl.js
 ###### transaction
 @onflow/sdk-build-transaction
 #######
+###### config
+###### send
+###### decode
+###### account
+###### latestBlock
 ######
 ###### script
 ###### ping
