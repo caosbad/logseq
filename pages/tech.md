@@ -19,7 +19,6 @@ packages/fcl/src/fcl.js
 ###### send
 ###### decode
 ###### interaction
-@onflow/interaction
 #######
 ###### utll-address
 ######
