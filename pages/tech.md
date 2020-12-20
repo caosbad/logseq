@@ -10,7 +10,7 @@ title: Tech
 packages/fcl/src/fcl.js
 ####### auth
 ####### modules import
-![](https://trello-attachments.s3.amazonaws.com/5fccc55f9c47787592af6b96/505x222/cf6ad803cccfd69501cd183bac6c4753/image.png)
+![]()
 ##### How [FCL](https://github.com/onflow/flow-js-sdk) interact with Flow
 ###### fcl.getAccount()
 ###### fcl.currentUser()
