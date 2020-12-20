@@ -22,6 +22,8 @@ packages/fcl/src/fcl.js
 packages/interaction/src/interaction.js
 #######
 ###### utll-address
+###### util-template
+#######
 ###### account
 ###### latestBlock
 ###### script
