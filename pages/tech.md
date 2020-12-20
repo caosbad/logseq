@@ -20,7 +20,6 @@ packages/fcl/src/fcl.js
 ###### decode
 ###### account
 ###### latestBlock
-######
 ###### script
 ###### ping
 ###### getAccount
