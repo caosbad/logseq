@@ -16,6 +16,7 @@ packages/fcl/src/fcl.js
 @onflow/sdk-build-transaction
 ###### config
 recursive load `flow.json` in folder
+###### onflow/send
 ###### sdk-send
 ####### sendFunction  —— use flow.json config function or onflow/send
 ####### resolveFunction
