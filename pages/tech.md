@@ -56,7 +56,6 @@ onst makeIx = (wat) => (ix) => {
   ix.tag = wat
   return Ok(ix)
 }
-
 ```
 ######## IX status
 ####### struct of IX
