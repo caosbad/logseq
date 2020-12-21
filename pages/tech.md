@@ -16,7 +16,7 @@ packages/fcl/src/fcl.js
 @onflow/sdk-build-transaction
 #######
 ###### config
-```clojure
+```ts
 (println "Hello world!")
 ```
 ###### send
