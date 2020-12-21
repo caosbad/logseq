@@ -16,6 +16,17 @@ packages/fcl/src/fcl.js
 @onflow/sdk-build-transaction
 #######
 ###### config
+```function recSearch(dir) {
+  const filePath = findTarget(dir)
+
+  if (filePath == null) {
+    if (dir === os.homedir()) throw new Error("No flow.json found")
+    return recSearch(parentDir(dir))
+  }
+
+  CONFIG = JSON.parse(fs.readFileSync(filePath, "utf8"))
+  return flowConfig()
+}```
 #######
 ###### send
 ###### decode
