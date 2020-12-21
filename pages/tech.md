@@ -51,7 +51,8 @@ packages/interaction/src/interaction.js
 ######## IX tag 
 ![interaction constants](https://trello-attachments.s3.amazonaws.com/5fccc55f9c47787592af6b96/518x340/6b86c4bfb3e65f2e000c2c649a31dd9f/image.png)
 ```ts
-const makeIx = (wat) => (ix) => {
+
+onst makeIx = (wat) => (ix) => {
   ix.tag = wat
   return Ok(ix)
 }
