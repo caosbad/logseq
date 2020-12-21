@@ -38,6 +38,7 @@ router offor send transactions with different trx types
 ###### sdk-send
 ####### sendFunction  —— use flow.json config send function or ((5fe052d2-d798-4209-b4e3-7f1e969d72a1))
 ####### resolveFunction —— use flow.json config resolve function or
+#######
 ####### pipe(interaction(), args) with args
 :PROPERTIES:
 :id: 5fe0523b-1f2a-4442-9982-67a43d70187c
