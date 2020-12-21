@@ -66,7 +66,6 @@ const makeIx = (wat) => (ix) => {
 ####### validate funcs
 ####### pipe && recPipe
 ######## handler IX as funcs input and exec by step
-########
 ###### utll-address
 ###### util-template
 #######
