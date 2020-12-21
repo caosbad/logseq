@@ -17,7 +17,7 @@ packages/fcl/src/fcl.js
 ###### config
 recursive load `flow.json` in folder
 ###### send
-####### sendFunction  —— d
+####### sendFunction  ——
 ####### resolveFunction
 ####### pipe
 ####### interaction
