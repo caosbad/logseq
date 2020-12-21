@@ -64,6 +64,8 @@ const makeIx = (wat) => (ix) => {
 ######### ARGUMENT
 ####### struct of IX
 ####### validate funcs
+####### pipe && recPipe
+########
 ###### utll-address
 ###### util-template
 #######
