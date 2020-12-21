@@ -15,6 +15,7 @@ packages/fcl/src/fcl.js
 ###### transaction
 @onflow/sdk-build-transaction
 ###### config
+load flow.json in
 #######
 ```ts
 
