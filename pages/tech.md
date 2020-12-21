@@ -18,7 +18,7 @@ packages/fcl/src/fcl.js
 #######
 ```ts
 test
- ```
+```
 ###### send
 ###### decode
 ###### interaction
