@@ -49,7 +49,7 @@ resolve args by pipe and return ix before send
 packages/interaction/src/interaction.js
 ####### constants
 ####### struct of IX
-#######
+####### validate funcs
 ###### utll-address
 ###### util-template
 #######
