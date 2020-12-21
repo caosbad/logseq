@@ -17,7 +17,7 @@ packages/fcl/src/fcl.js
 #######
 ###### config
 ```clojure
-  (println "Hello world!")
+(println "Hello world!")
 ```
 ###### send
 ###### decode
