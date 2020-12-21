@@ -20,7 +20,7 @@ recursive load `flow.json` in folder
 :PROPERTIES:
 :id: 5fe052d2-d798-4209-b4e3-7f1e969d72a1
 :END:
-router of send transactions with
+router of send transactions with different trx types
 #######
 ###### @onflow/sdk-resolve
 :PROPERTIES:
