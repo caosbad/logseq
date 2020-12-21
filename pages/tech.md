@@ -21,8 +21,8 @@ recursive load `flow.json` in folder
 :id: 5fe052d2-d798-4209-b4e3-7f1e969d72a1
 :END:
 ###### sdk-send
-####### sendFunction  —— use flow.json config function or ((5fe052d2-d798-4209-b4e3-7f1e969d72a1))
-####### resolveFunction
+####### sendFunction  —— use flow.json config send function or ((5fe052d2-d798-4209-b4e3-7f1e969d72a1))
+####### resolveFunction —— use flow.json config function or
 ####### pipe
 ####### interaction
 ###### decode
