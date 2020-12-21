@@ -17,7 +17,7 @@ packages/fcl/src/fcl.js
 ###### config
 #######
 ```ts
-test
+
 ```
 ###### send
 ###### decode
