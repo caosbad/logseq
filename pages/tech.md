@@ -14,10 +14,6 @@ packages/fcl/src/fcl.js
  ![modules](https://trello-attachments.s3.amazonaws.com/5fccc55f9c47787592af6b96/577x461/98faad85fa771dfeea66278ea651a319/image.png)
 ###### transaction
 @onflow/sdk-build-transaction
-#######
-:PROPERTIES:
-:later: 1608536029173
-:END:
 ###### LATER config
 ``` ```
 ###### send
