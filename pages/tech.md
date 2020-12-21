@@ -39,7 +39,6 @@ resolve args by pipe and return ix before send
 ###### sdk-send
 ####### sendFunction  —— use flow.json config send function or ((5fe052d2-d798-4209-b4e3-7f1e969d72a1))
 ####### resolveFunction —— use flow.json config resolve function or ((5fe0532c-59fd-4df6-a11e-b7baaadc3447))
-#######
 ####### pipe(interaction(), args) with args
 :PROPERTIES:
 :id: 5fe0523b-1f2a-4442-9982-67a43d70187c
