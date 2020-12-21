@@ -23,11 +23,10 @@ recursive load `flow.json` in folder
 router offor send transactions with different trx types
 ![send](https://trello-attachments.s3.amazonaws.com/5fccc55f9c47787592af6b96/595x698/5366dc505b026b98a24eff6e4ddf47c5/image.png)
 #######
-###### @onflow/sdk-resolve
+###### @onflow/sdk-resolve —— resolve send args and return ix 
 :PROPERTIES:
 :id: 5fe0532c-59fd-4df6-a11e-b7baaadc3447
 :END:
-
 ![reslove args](https://trello-attachments.s3.amazonaws.com/5fccc55f9c47787592af6b96/453x178/ced5a8e22da1b51779d6f00b9e6b8e56/image.png)
 #######
 ###### sdk-send
