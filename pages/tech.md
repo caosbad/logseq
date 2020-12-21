@@ -59,7 +59,9 @@ const makeIx = (wat) => (ix) => {
 ```
 ######## IX status
 ######## IX kind
-#########
+######### ACCOUNT
+######### PARAM
+######### ARGUMENT
 ####### struct of IX
 ####### validate funcs
 ###### utll-address
