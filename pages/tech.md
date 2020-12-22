@@ -48,7 +48,7 @@ asserter for accounts check and role check
 ######## enforceResolvedAccounts
 iterator reslove accounts with their reslover fumction
 ######## dedupeResolvedAccounts
- iterator calc `cid` for accounts and merge the same cid account, instead `cid` of `tempId`
+ iterator calc `cid` for accounts and merge the same cid account, instead `cid` of `tempId` and update `ix.authorizations`
 #########
 ```
 `const cid = `${account.addr}|${account.keyId}`
