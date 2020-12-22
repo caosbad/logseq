@@ -82,3 +82,6 @@ const makeIx = (wat) => (ix) => {
 ###### fcl.authenticate()
 ###### fcl.unauthenticate()
 #### wallet-provider-spec
+### Balancer
+#### balancer-exchange
+#####
