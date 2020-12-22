@@ -48,6 +48,7 @@ asserter for accounts check and role check
 ######## enforceResolvedAccounts
 iterator reslove accounts with their reslover fumction
 ######## dedupeResolvedAccounts
+iterator
 ####### resolveRefBlockId(opts)
 ####### resolveSignatures
 ####### resolveValidators
