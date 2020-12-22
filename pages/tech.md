@@ -40,6 +40,8 @@ check args with `cast`  and update `ix.arguments`
   }
 ```
 ####### resolveAccounts
+######## enforceResolvedAccounts
+########
 ####### resolveRefBlockId(opts)
 ####### resolveSignatures
 ####### resolveValidators
