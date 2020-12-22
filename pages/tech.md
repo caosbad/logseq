@@ -46,7 +46,7 @@ check account's role with three types `proposer` `payer` `authorizer`
 ######## invariant
 asserter for accounts check and role check
 ######## enforceResolvedAccounts
-iterator reslove account with their reslove
+iterator reslove accounts with their reslover fumction
 ######## dedupeResolvedAccounts
 ####### resolveRefBlockId(opts)
 ####### resolveSignatures
