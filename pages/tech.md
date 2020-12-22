@@ -42,7 +42,7 @@ check args with `cast`  and update `ix.arguments`
 ####### resolveAccounts
 packages/sdk-resolve-accounts/src/index.js
 ######## accountCanFulfillRoles
-check account's role with three types
+check account's role with three types `proposer` ````
 ######## invariant
 ######## enforceResolvedAccounts
 ######## dedupeResolvedAccounts
