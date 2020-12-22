@@ -84,4 +84,5 @@ const makeIx = (wat) => (ix) => {
 #### wallet-provider-spec
 ### Balancer
 #### balancer-exchange
-#####
+##### batchSwapExactIn
+src/stores/Proxy.ts
