@@ -48,7 +48,7 @@ asserter for accounts check and role check
 ######## enforceResolvedAccounts
 iterator reslove accounts with their reslover fumction
 ######## dedupeResolvedAccounts
-iterator calc cid for accounts and merge the same cid account, update `ix.accounts[cid]`
+iterator calc cid for accounts and merge the same cid account, update `ix.accounts` with `cid`
 ####### resolveRefBlockId(opts)
 ####### resolveSignatures
 ####### resolveValidators
