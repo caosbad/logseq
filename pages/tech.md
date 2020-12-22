@@ -53,6 +53,7 @@ iterator reslove accounts with their reslover fumction
 ```
 `const cid = `${account.addr}|${account.keyId}`
 ```
+#######
 ####### resolveRefBlockId(opts)
 ####### resolveSignatures
 ####### resolveValidators
