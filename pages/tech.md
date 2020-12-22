@@ -54,6 +54,11 @@ iterator reslove accounts with their reslover fumction
 `const cid = `${account.addr}|${account.keyId}`
 ```
 #########
+```
+ix.authorizations = ix.authorizations.map(d =>
+      d === account.tempId ? cid : d
+    )
+```
 ####### resolveRefBlockId(opts)
 ####### resolveSignatures
 ####### resolveValidators
