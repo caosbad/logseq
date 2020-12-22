@@ -41,6 +41,7 @@ check args with `cast`  and update `ix.arguments`
 ```
 ####### resolveAccounts
 packages/sdk-resolve-accounts/src/index.js
+######## invariant
 ######## enforceResolvedAccounts
 ######## dedupeResolvedAccounts
 ####### resolveRefBlockId(opts)
