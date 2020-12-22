@@ -33,7 +33,7 @@ resolve args by pipe and return ix before send
 ####### resolveCadence ?
 handle cadence with string or function `ix.message.cadence`
 ####### resolveArguments
-check args with `cast`  and update
+check args with `cast`  and update `ix.arguments`
 ####### resolveAccounts
 ####### resolveRefBlockId(opts)
 ####### resolveSignatures
