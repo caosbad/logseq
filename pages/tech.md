@@ -41,7 +41,7 @@ check args with `cast`  and update `ix.arguments`
 ```
 ####### resolveAccounts
 ######## enforceResolvedAccounts
-########
+######## dedupeResolvedAccounts
 ####### resolveRefBlockId(opts)
 ####### resolveSignatures
 ####### resolveValidators
