@@ -38,6 +38,7 @@ check args with `cast`  and update `ix.arguments`
  for (let [id, arg] of Object.entries(ix.arguments)) {
     ix.arguments[id].asArgument = cast(arg)
   }
+```
 ####### resolveAccounts
 ####### resolveRefBlockId(opts)
 ####### resolveSignatures
