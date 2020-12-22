@@ -44,6 +44,7 @@ packages/sdk-resolve-accounts/src/index.js
 ######## accountCanFulfillRoles
 check account's role with three types `proposer` `payer` `authorizer`
 ######## invariant
+asserter for accounts check and role check
 ######## enforceResolvedAccounts
 ######## dedupeResolvedAccounts
 ####### resolveRefBlockId(opts)
