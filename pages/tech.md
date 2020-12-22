@@ -33,7 +33,12 @@ resolve args by pipe and return ix before send
 ####### resolveCadence ?
 handle cadence with string or function `ix.message.cadence`
 ####### resolveArguments
-check args with `cast`  and update `ix.arguments`
+check args with `cast`  and update `ix.arguments` 
+``` javascript
+for (let [id, arg] of Object.entries(ix.arguments)) {
+    ix.arguments[id].asArgument = cast(arg)
+  }
+```
 ####### resolveAccounts
 ####### resolveRefBlockId(opts)
 ####### resolveSignatures
