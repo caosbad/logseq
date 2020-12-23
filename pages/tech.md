@@ -31,9 +31,34 @@ router offor send transactions with different trx types
 resolve args by pipe and return ix before send 
 ![reslove args](https://trello-attachments.s3.amazonaws.com/5fccc55f9c47787592af6b96/453x178/ced5a8e22da1b51779d6f00b9e6b8e56/image.png)
 ####### resolveCadence ?
-handle cadence with string or function
+handle cadence with string or function `ix.message.cadence`
 ####### resolveArguments
+check args with `cast`  and update `ix.arguments` 
+``` javascript
+ for (let [id, arg] of Object.entries(ix.arguments)) {
+    ix.arguments[id].asArgument = cast(arg)
+  }
+```
 ####### resolveAccounts
+packages/sdk-resolve-accounts/src/index.js
+######## accountCanFulfillRoles
+check account's role with three types `proposer` `payer` `authorizer`
+######## invariant
+asserter for accounts check and role check
+######## enforceResolvedAccounts
+iterator reslove accounts with their reslover fumction
+######## dedupeResolvedAccounts
+ iterator calc `cid` for accounts and merge the same cid account, instead `cid` of `tempId` and update `ix.authorizations`
+#########
+```
+`const cid = `${account.addr}|${account.keyId}`
+```
+#########
+```
+ix.authorizations = ix.authorizations.map(d =>
+      d === account.tempId ? cid : d
+    )
+```
 ####### resolveRefBlockId(opts)
 ####### resolveSignatures
 ####### resolveValidators
