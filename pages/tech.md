@@ -72,7 +72,7 @@ authorizers + proposer
 ######### outsideSigners
 payer
 ######## mutateAccountsWithSignatures
-#########
+set
 ######## fetchSignatures
 iterate signer with `ix.accounts` signingFunction and check `keyId` add `addr`
 ####### resolveValidators
