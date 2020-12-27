@@ -89,7 +89,7 @@ iterate signer with `ix.accounts` signingFunction and check `keyId` add `addr` r
 ###### decode
 ###### encode
 ####### prepForEncoding?
-#######
+####### encodeTransactionPayload
 ###### interaction
 packages/interaction/src/interaction.js
 ####### constants
