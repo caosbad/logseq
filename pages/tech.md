@@ -66,7 +66,7 @@ packages/sdk-resolve-ref-block-id/src/index.js
 set the latestBlock  value to `ix.message.refBlock`
 ####### resolveSignatures
 ######## collateSigners
- split signers with two type
+ split signers with two type and return two
 ######### insideSigners
 ######### outsideSigners
 ######## mutateAccountsWithSignatures
