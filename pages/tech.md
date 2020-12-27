@@ -90,6 +90,7 @@ iterate signer with `ix.accounts` signingFunction and check `keyId` add `addr` r
 ####### preparePayload
 ########
 ####### prepareEnvelope
+####### validatePayload
 ####### Fields
 ```js
 const isNumber = v => typeof v === "number"
