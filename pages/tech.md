@@ -91,7 +91,7 @@ iterate signer with `ix.accounts` signingFunction and check `keyId` add `addr` r
 ########
 ####### prepareEnvelope
 ####### validatePayload
-######## checkField
+####### checkField
 set obj's default value with fields define and check the type
 ####### Fields
 ```js
