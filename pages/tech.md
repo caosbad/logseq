@@ -93,7 +93,7 @@ assemble encode data with ix fields
 ####### preparePayload
 paddedHexBuffer and buffer the tx fields
 ####### prepareEnvelope
-validate payloadSigs and return buffered [payload,
+validate payloadSigs and return buffered [payload,preparePayloadSignatures]
 ####### validatePayload
 ####### checkField
 set obj's default value with fields define and check the type
