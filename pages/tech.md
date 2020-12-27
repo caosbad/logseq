@@ -63,6 +63,7 @@ ix.authorizations = ix.authorizations.map(d =>
 check ref block id or get getLatestBlock and return
 packages/sdk-resolve-ref-block-id/src/index.js
 ######## getRefId
+set the latestBlock  value to getLatestBlock
 ####### resolveSignatures
 ####### resolveValidators
 ###### sdk-send
