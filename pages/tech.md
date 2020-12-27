@@ -114,6 +114,13 @@ const payloadFields = [
 ]
 ```
 ######## proposalKeyFields
+```
+const proposalKeyFields = [
+  {name: "address", check: isString},
+  {name: "keyId", check: isNumber},
+  {name: "sequenceNum", check: isNumber},
+]
+```
 ######## envelopeFields
 ######## payloadSigFields
 ###### interaction
