@@ -66,7 +66,7 @@ packages/sdk-resolve-ref-block-id/src/index.js
 set the latestBlock  value to `ix.message.refBlock`
 ####### resolveSignatures
 ######## collateSigners
-########
+######## mutateAccountsWithSignatures
 ####### resolveValidators
 ###### sdk-send
 ####### sendFunction  —— use flow.json config send function or ((5fe052d2-d798-4209-b4e3-7f1e969d72a1))
