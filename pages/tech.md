@@ -74,7 +74,7 @@ payer
 ######## mutateAccountsWithSignatures
 set
 ######## fetchSignatures
-iterate signer with `ix.accounts` signingFunction and check `keyId` add `addr`
+iterate signer with `ix.accounts` signingFunction and check `keyId` add `addr` return `compSigs`
 ####### resolveValidators
 ###### sdk-send
 ####### sendFunction  —— use flow.json config send function or ((5fe052d2-d798-4209-b4e3-7f1e969d72a1))
