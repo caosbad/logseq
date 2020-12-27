@@ -91,6 +91,8 @@ iterate signer with `ix.accounts` signingFunction and check `keyId` add `addr` r
 ########
 ####### prepareEnvelope
 ####### validatePayload
+######## checkField
+set obj's default value with fields define and check the type
 ####### Fields
 ```js
 const isNumber = v => typeof v === "number"
@@ -103,8 +105,6 @@ define fields and field's check function
 ######## proposalKeyFields
 ######## envelopeFields
 ######## payloadSigFields
-####### checkField
-set obj's default value with fields define and check the type
 ###### interaction
 packages/interaction/src/interaction.js
 ####### constants
