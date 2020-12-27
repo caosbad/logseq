@@ -103,7 +103,8 @@ define fields and field's check function
 ######## proposalKeyFields
 ######## envelopeFields
 ######## payloadSigFields
-#######
+####### checkField
+set obj's default value with fields define and check the type
 ###### interaction
 packages/interaction/src/interaction.js
 ####### constants
