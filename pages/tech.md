@@ -68,7 +68,9 @@ set the latestBlock  value to `ix.message.refBlock`
 ######## collateSigners
  split signers with two type and return two array
 ######### insideSigners
+authorizers + proposer
 ######### outsideSigners
+payer
 ######## mutateAccountsWithSignatures
 ####### resolveValidators
 ###### sdk-send
