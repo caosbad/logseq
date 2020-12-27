@@ -89,6 +89,12 @@ iterate signer with `ix.accounts` signingFunction and check `keyId` add `addr` r
 ###### encode
 ####### preparePayload
 ####### Fields
+```js
+const isNumber = v => typeof v === "number"
+const isString = v => typeof v === "string"
+const isObject = v => v !== null && typeof v === "object"
+const isArray = v => isObject(v) && v instanceof Array
+```
 define fields and check function
 ######## payloadFields
 ######## proposalKeyFields
