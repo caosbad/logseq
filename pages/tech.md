@@ -98,7 +98,7 @@ const isString = v => typeof v === "string"
 const isObject = v => v !== null && typeof v === "object"
 const isArray = v => isObject(v) && v instanceof Array
 ```
-define fields and check function
+define fields and field's check function
 ######## payloadFields
 ######## proposalKeyFields
 ######## envelopeFields
