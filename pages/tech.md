@@ -65,6 +65,7 @@ packages/sdk-resolve-ref-block-id/src/index.js
 ######## getRefId
 set the latestBlock  value to `ix.message.refBlock`
 ####### resolveSignatures
+######## collateSigners
 ########
 ####### resolveValidators
 ###### sdk-send
