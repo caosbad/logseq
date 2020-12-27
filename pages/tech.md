@@ -89,6 +89,7 @@ iterate signer with `ix.accounts` signingFunction and check `keyId` add `addr` r
 ###### encode
 ####### preparePayload
 ####### Fields
+define fields and check function
 ######## payloadFields
 ######## proposalKeyFields
 ######## envelopeFields
