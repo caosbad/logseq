@@ -60,6 +60,7 @@ ix.authorizations = ix.authorizations.map(d =>
     )
 ```
 ####### resolveRefBlockId(opts)
+check ref block id or get
 ######## getRefId
 ####### resolveSignatures
 ####### resolveValidators
