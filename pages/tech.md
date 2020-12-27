@@ -60,6 +60,7 @@ ix.authorizations = ix.authorizations.map(d =>
     )
 ```
 ####### resolveRefBlockId(opts)
+######## getRefId
 ####### resolveSignatures
 ####### resolveValidators
 ###### sdk-send
