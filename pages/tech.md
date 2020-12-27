@@ -122,8 +122,7 @@ const proposalKeyFields = [
 ]
 ```
 ######## envelopeFields
-`const envelopeFields = [{name: "payloadSigs", check: isArray}]
-`
+`const envelopeFields = [{name: "payloadSigs", check: isArray}]`
 ######## payloadSigFields
 ###### interaction
 packages/interaction/src/interaction.js
