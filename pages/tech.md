@@ -91,7 +91,6 @@ assemble encode data with ix fields
 ###### decode
 ###### encode
 ####### preparePayload
-########
 ####### prepareEnvelope
 ####### validatePayload
 ####### checkField
