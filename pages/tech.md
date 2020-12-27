@@ -102,6 +102,17 @@ const isArray = v => isObject(v) && v instanceof Array
 ```
 define fields and field's check function
 ######## payloadFields
+```
+const payloadFields = [
+  {name: "script", check: isString},
+  {name: "arguments", check: isArray},
+  {name: "refBlock", check: isString, defaultVal: "0"},
+  {name: "gasLimit", check: isNumber},
+  {name: "proposalKey", check: isObject},
+  {name: "payer", check: isString},
+  {name: "authorizers", check: isArray},
+]
+```
 ######## proposalKeyFields
 ######## envelopeFields
 ######## payloadSigFields
