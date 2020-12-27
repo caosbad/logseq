@@ -94,10 +94,11 @@ assemble encode data with ix fields
 paddedHexBuffer and buffer the tx fields
 ####### prepareEnvelope
 validate payloadSigs and return buffered [payload,preparePayloadSignatures]
-####### validatePayload
-####### checkField
+#######
+######## validatePayload
+######## checkField
 set obj's default value with fields define and check the type
-####### Fields
+######## Fields
 ```js
 const isNumber = v => typeof v === "number"
 const isString = v => typeof v === "string"
@@ -105,7 +106,7 @@ const isObject = v => v !== null && typeof v === "object"
 const isArray = v => isObject(v) && v instanceof Array
 ```
 define fields and field's check function
-######## payloadFields
+######### payloadFields
 ```
 const payloadFields = [
   {name: "script", check: isString},
@@ -117,7 +118,7 @@ const payloadFields = [
   {name: "authorizers", check: isArray},
 ]
 ```
-######## proposalKeyFields
+######### proposalKeyFields
 ```
 const proposalKeyFields = [
   {name: "address", check: isString},
@@ -125,9 +126,9 @@ const proposalKeyFields = [
   {name: "sequenceNum", check: isNumber},
 ]
 ```
-######## envelopeFields
+######### envelopeFields
 `const envelopeFields = [{name: "payloadSigs", check: isArray}]`
-######## payloadSigFields
+######### payloadSigFields
 ```
 const payloadSigFields = [
   {name: "address", check: isString},
