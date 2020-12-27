@@ -30,7 +30,7 @@ router offor send transactions with different trx types
 :END:
 resolve args by pipe and return ix before send 
 ![reslove args](https://trello-attachments.s3.amazonaws.com/5fccc55f9c47787592af6b96/453x178/ced5a8e22da1b51779d6f00b9e6b8e56/image.png)
-####### resolveCadence ?
+####### resolveCadence 
 handle cadence with string or function `ix.message.cadence`
 ####### resolveArguments
 check args with `cast`  and update `ix.arguments` 
