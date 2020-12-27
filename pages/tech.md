@@ -76,7 +76,7 @@ set `ix.accounts[cid].signature` with `compSigs`
 ######## fetchSignatures
 iterate signer with `ix.accounts` signingFunction and check `keyId` add `addr` return `compSigs`
 ######### encodeInsideMessage
-#########
+######### encodeOutsideMessage
 ######## prepForEncoding
 ####### resolveValidators
 ###### sdk-send
