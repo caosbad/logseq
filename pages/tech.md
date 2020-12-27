@@ -87,7 +87,7 @@ iterate signer with `ix.accounts` signingFunction and check `keyId` add `addr` r
 ###### protobuf
 ###### decode
 ###### encode
-####### prepForEncoding?
+####### preparePayload
 ####### encodeTransactionPayload
 ####### encodeTransactionEnvelope
 ###### interaction
