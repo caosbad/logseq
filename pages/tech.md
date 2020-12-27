@@ -84,6 +84,7 @@ payer
 ###### protobuf
 ###### decode
 ###### encode
+####### prepForEncoding?
 ###### interaction
 packages/interaction/src/interaction.js
 ####### constants
