@@ -75,6 +75,7 @@ set the latestBlock  value to `ix.message.refBlock`
 :END:
 ###### protobuf
 ###### decode
+###### encode
 ###### interaction
 packages/interaction/src/interaction.js
 ####### constants
