@@ -97,6 +97,7 @@ decode data with diffrent type
 ######## transaction
 ######## events
 ######## account
+decode the `account.code` with
 ######## block
 ######## latesBlock
 ######## transactionId
