@@ -93,7 +93,13 @@ assemble encode data with ix fields
 enum decoders with basic data types
 ####### decodeResponse
 decode data with diffrent type
-########
+######## encodeData
+######## transaction
+######## events
+######## account
+######## block
+######## latesBlock
+######## transactionId
 ###### encode
 ####### preparePayload
 paddedHexBuffer and buffer the tx fields
