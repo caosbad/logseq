@@ -101,6 +101,7 @@ decode the `account.code` with `TextDecoder`
 ######## block
 ######## latesBlock
 ######## transactionId
+#######
 ###### encode
 ####### preparePayload
 paddedHexBuffer and buffer the tx fields
