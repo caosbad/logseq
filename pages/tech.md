@@ -89,7 +89,8 @@ assemble encode data with ix fields
 :END:
 ###### protobuf
 ###### decode？
-#######
+####### defaultDecoders
+enum decoders with basic data types
 ####### decodeResponse
 ###### encode
 ####### preparePayload
