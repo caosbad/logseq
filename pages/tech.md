@@ -92,6 +92,7 @@ assemble encode data with ix fields
 ####### defaultDecoders
 enum decoders with basic data types
 ####### decodeResponse
+########
 ###### encode
 ####### preparePayload
 paddedHexBuffer and buffer the tx fields
