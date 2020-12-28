@@ -89,7 +89,7 @@ assemble encode data with ix fields
 :END:
 ###### protobuf
 ###### decode
-#######
+####### decodeResponse
 ###### encode
 ####### preparePayload
 paddedHexBuffer and buffer the tx fields
