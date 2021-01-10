@@ -183,7 +183,7 @@ const makeIx = (wat) => (ix) => {
 @onflow/interaction
 ####### template
 ######## handler string code with direct return
-########
+######## recApply with string and other args
 ###### account
 ###### latestBlock
 ###### script
