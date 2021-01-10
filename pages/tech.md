@@ -15,7 +15,10 @@ packages/fcl/src/fcl.js
 ###### transaction
 @onflow/sdk-build-transaction
 ####### constant
-########
+######## DEFAULT_COMPUTE_LIMIT
+######## DEFAULT_SCRIPT_ACCOUNTS
+######## DEFUALT_REF
+#######
 ###### config
 recursive load `flow.json` in folder
 ###### onflow/send
