@@ -182,7 +182,8 @@ const makeIx = (wat) => (ix) => {
 ###### getAccount
 ###### six-set-code
  @onflow/six-set-code
-#######
+####### constants
+####### template
 ##### How [FCL](https://github.com/onflow/flow-js-sdk) interact with Flow
 ###### fcl.getAccount()
 ###### fcl.currentUser()
