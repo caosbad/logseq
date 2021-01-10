@@ -180,7 +180,7 @@ const makeIx = (wat) => (ix) => {
 ###### utll-address
 ####### sansPrefix
 ###### util-template
-#######
+####### template
 ###### account
 ###### latestBlock
 ###### script
