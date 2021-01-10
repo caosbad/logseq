@@ -18,7 +18,7 @@ packages/fcl/src/fcl.js
 ######## DEFAULT_COMPUTE_LIMIT —— 10
 ######## DEFAULT_SCRIPT_ACCOUNTS —— []
 ######## DEFUALT_REF —— null
-#######
+####### pipe with [IX, set ix.cadence with `util-template`]
 ###### config
 recursive load `flow.json` in folder
 ###### onflow/send
