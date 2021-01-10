@@ -182,7 +182,8 @@ const makeIx = (wat) => (ix) => {
 ###### util-template
 @onflow/interaction
 ####### template
-handler string code with
+######## handler string code with direct return
+########
 ###### account
 ###### latestBlock
 ###### script
